@@ -15,7 +15,7 @@ def third_challenge
           status: "Alive"
         },
       :hero_friends => []
-   }
+   },
    :capulet => {
       :patriarch => {
         name: "Lord Capulet",
